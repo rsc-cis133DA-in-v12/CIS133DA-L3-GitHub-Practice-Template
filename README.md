@@ -45,3 +45,12 @@ In this project, you will walk through the steps to become familiar with using G
 > To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
 
 ***
+<details>
+  <summary>Step 1 Hint</summary>
+  
+1. Use the `img` tag to link to an image; it is an empty tag.
+   1. Use the `src` attribute with a value of the URL to the image file.
+   2. Use the `width` attribute with a value of the horizontal dimension of the image file.
+   3. Use the `height` attribute with a value of the vertical dimension of the image file.
+   4. Use the `alt` attribute with a value of the description of the image file.
+</details>
