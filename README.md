@@ -5,7 +5,7 @@ Practice Activity used in CIS133DA to get students familiar with Git and GitHub.
 In this project, you will walk through the steps to become familiar with using Git, GitHub, VS Code, applying a commit, syncing your files with GitHub, and submitting assignments to your instructor for your web development course.
 
 ## Project Preparation
-1. If you have not done so already, create a course folder to store all your practice activities and project files. e.g., CIS233DA-12345.
+1. If you have not done so already, create a course folder to store all your practice activities and project files. e.g., CIS133DA-12345.
 2. You will find the directions for all your projects and activities within the `Readme.md` file. 
    1. This is a markdown file.
    2. You can view the markdown file in two ways:
@@ -39,6 +39,8 @@ In this project, you will walk through the steps to become familiar with using G
    > TIP: If you are on the [GitHub.com](https://github.com/rsc-cis233da-in-v8) website typing in your comment, when you type in the `@` sybmol, a list of potential users to select from will appear to help you easily find your instructor's username.
 
 > **IMPORTANT NOTE** - When you look at the pull request in VS Code or GitHub, you should see the commit you applied in step 6 listed right above the textbox. If you do not see the commit listed there, be sure to go back to step 7 and make sure you sync your files.
+
+If you are running into any issues, please see the [Troubleshooting FAQ page](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/troubleshooting-faq/) for potential solutions. You can also reach out to your instructor for assistance.
 
 ***
 
