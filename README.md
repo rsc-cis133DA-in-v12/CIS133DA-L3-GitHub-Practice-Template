@@ -1,5 +1,5 @@
 # GitHub Practice Activity
-Practice Activity used in CIS133DA to get students familiar with Git and GitHub.
+This is a practice activity used in Lesson 3 of CIS133DA to get students familiar with Git and GitHub.
 
 ## Scenario
 In this project, you will walk through the steps to become familiar with using Git, GitHub, VS Code, applying a commit, syncing your files with GitHub, and submitting assignments to your instructor for your web development course.
