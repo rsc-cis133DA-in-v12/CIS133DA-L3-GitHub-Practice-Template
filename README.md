@@ -25,7 +25,7 @@ It is recommended that you view the `README.md` file in **Preview Mode** using *
    - Be sure to include your instructor's username (with an at symbol `@`) to send the notification (e.g., `@username, {Comment goes here}`). 
    - Your instructor's username can be found in the course announcements in RioLearn. If you need a refresher on how to do this, refer to the [How To: Create a Project Comment in GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback#How-To-Create-a-Project-Comment-in-GitHub) tutorial.
 
-   > **TIP:** If you create your comment on the [CIS133DA Course Organization](https://github.com/rsc-cis133DA-in-v12) site, when you type in the `@` symbol a list of potential users to select from will appear to help you easily find your instructor's username.
+     > **TIP:** If you create your comment on the [CIS133DA Course Organization](https://github.com/rsc-cis133DA-in-v12) site, when you type in the `@` symbol a list of potential users to select from will appear to help you easily find your instructor's username.
 
 5. When you look at the pull request in VS Code or GitHub, you should see the commit you applied in step 4 listed right above the textbox. If you do not see the commit listed there, be sure to go back to step 3 and make sure you sync your files.
 
