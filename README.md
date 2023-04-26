@@ -20,16 +20,12 @@ It is recommended that you view the `README.md` file in **Preview Mode** using *
    - Answer the questions within the list replacing the `Response here` text.
 2. Save the `index.html` file. You can select **FILE>SAVE** or the keyboard shortcut **CTRL+S**.
 3. **Sync** your changes and **Apply a commit**.
-   - A good commit message would look like: `Added my details to the page.`
-
-   > If you need a refresher on how to do this, refer to the [How To: Sync your Files and Apply a Commit](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial. 
+   - A good commit message would look like: `Added my details to the page.` If you need a refresher on how to do this, refer to the [How To: Sync your Files and Apply a Commit](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial. 
 4. Since this practice activity is not graded, you will not be submitting it through RioLearn. Instead, you can let your Instructor know that you completed the activity by posting a Comment to the Pull Request. 
    - Be sure to include your instructor's username (with an at symbol `@`) to send the notification (e.g., `@username, {Comment goes here}`). 
-   - Your instructor's username can be found in the course announcements in RioLearn.
+   - Your instructor's username can be found in the course announcements in RioLearn. If you need a refresher on how to do this, refer to the [How To: Create a Project Comment in GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback#How-To-Create-a-Project-Comment-in-GitHub) tutorial.
 
-   > If you need a refresher on how to do this, refer to the [How To: Create a Project Comment in GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback#How-To-Create-a-Project-Comment-in-GitHub) tutorial.
-
-   > **TIP:** If you create your comment on  the [CIS133DA Course Organization](https://github.com/rsc-cis133DA-in-v12) site, when you type in the `@` symbol a list of potential users to select from will appear to help you easily find your instructor's username.
+   > **TIP:** If you create your comment on the [CIS133DA Course Organization](https://github.com/rsc-cis133DA-in-v12) site, when you type in the `@` symbol a list of potential users to select from will appear to help you easily find your instructor's username.
 
 5. When you look at the pull request in VS Code or GitHub, you should see the commit you applied in step 4 listed right above the textbox. If you do not see the commit listed there, be sure to go back to step 3 and make sure you sync your files.
 
@@ -37,4 +33,4 @@ If you are running into any issues, please see the [Troubleshooting FAQ page](ht
 
 ***
 
-> To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
+To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
