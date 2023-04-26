@@ -21,7 +21,8 @@ It is recommended that you view the `README.md` file in **Preview Mode** using *
 2. Save the `index.html` file. You can select **FILE>SAVE** or the keyboard shortcut **CTRL+S**.
 3. **Sync** your changes and **Apply a commit**.
    - A good commit message would look like: `Added my details to the page.`
-   > If you need a refresher on how to do this, refer to the [How To: Apply a Commit](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial. 
+
+   > If you need a refresher on how to do this, refer to the [How To: Sync your Files and Apply a Commit](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial. 
 4. Since this practice activity is not graded, you will not be submitting it through RioLearn. Instead, you can let your Instructor know that you completed the activity by posting a Comment to the Pull Request. 
    - Be sure to include your instructor's username (with an at symbol `@`) to send the notification (e.g., `@username, {Comment goes here}`). 
    - Your instructor's username can be found in the course announcements in RioLearn.
