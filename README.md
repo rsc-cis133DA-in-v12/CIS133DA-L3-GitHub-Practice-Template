@@ -14,7 +14,7 @@ It is recommended that you view the `README.md` file in **Preview Mode** using *
 
 > **VS Code Tip** - You can use the Split View feature (under the **View** menu, **Editor Layout** options) in VS Code to display the `Readme.md` file on one side of VS Code and the files you need to edit on the other side. You can also open the `Readme.md` file in Preview mode by right clicking on the file and selecting the **Open Preview** option.
 
-1. Within the `html` subfolder, open the `index.html` file and complete the following steps:
+1. Open the `index.html` file and complete the following steps:
    - Modify the level 1 heading so it displays your first and last name.
    - Modify the list to add your GitHub username, course name, section number, and instructor's name.
    - Answer the questions within the list replacing the `Response here` text.
